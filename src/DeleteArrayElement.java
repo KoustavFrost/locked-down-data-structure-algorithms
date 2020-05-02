@@ -1,5 +1,5 @@
 import java.util.*;
-class DeleteArrayElements
+class DeleteArrayElement
 {
      public void deleteElement()
      {
@@ -30,7 +30,7 @@ class DeleteArrayElements
 
      public static void main(String args[])
      {
-         DeleteArrayElements obj = new DeleteArrayElements();
+         DeleteArrayElement obj = new DeleteArrayElement();
          obj.deleteElement();
      }
 }
